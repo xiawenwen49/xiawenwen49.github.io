@@ -8,14 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm current a machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), my Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). I work on graph-related learning methods and algorithms, e.g., graph neural neworks (GNNs), especially their applications on temporal graphs, theoretical power, and interpretability, graph algorithms, and so on.
+I'm current a machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), my Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
+I also spent one year at Microsoft Research Asia (Shanghai) as a research intern.
+I work on graph-related learning methods (e.g., graph neural neworks), graph algorithms, large language models, and so on.
 
 
 # News
-[2024.05] Our paper was accepted by [The Web conference 2024](https://www2024.thewebconf.org/) at Singapore.
+[2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
+Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
 
 # Publications
-- Jun hu*, **Wenwen Xia***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
+- Jun hu\*, **Wenwen Xia\***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
 
 - **Wenwen Xia**, Mincai Lai, Caihua Shan, Yao Zhang, Xinnan Dai, Xiang Li, Dongsheng Li. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://openreview.net/pdf?id=BR_ZhvcYbGJ). ICLR, 2023
 - **Wenwen Xia**, Yuchen Li, and Shenghong Li. ["On the substructure countability of graph neural networks"](https://ieeexplore.ieee.org/document/9961144). IEEE Transactions on Knowledge and Data Engineering, 2022
