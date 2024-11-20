@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
+My name is Wenwen Xia, I'm currently a senior machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
 I also spent one year at Microsoft Research Asia (Shanghai) as a research intern.
 I work on graph-related learning methods (e.g., graph neural neworks), graph algorithms, large language models, and so on.
 
