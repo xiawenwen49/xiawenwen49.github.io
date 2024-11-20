@@ -15,6 +15,7 @@ I work on graph-related learning methods (e.g., graph neural neworks), graph alg
 
 # News
 [2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
+
 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
 
