@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Wenwen Xia, I'm currently a senior machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
+Welcome! My name is Wenwen Xia, I'm currently a senior machine learning engineer at Ant Group. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
 I also spent one year at Microsoft Research Asia (Shanghai) as a research intern.
 I work on graph-related learning methods (e.g., graph neural neworks), graph algorithms, large language models, and so on.
 
 
 # News
+[2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
 
