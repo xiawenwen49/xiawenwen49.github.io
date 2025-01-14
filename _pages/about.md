@@ -22,7 +22,6 @@ Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was acc
 # Publications
 - Jun hu\*, **Wenwen Xia\***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
-
 - **Wenwen Xia**, Mincai Lai, Caihua Shan, Yao Zhang, Xinnan Dai, Xiang Li, Dongsheng Li. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://openreview.net/pdf?id=BR_ZhvcYbGJ). ICLR, 2023
 - **Wenwen Xia**, Yuchen Li, and Shenghong Li. ["On the substructure countability of graph neural networks"](https://ieeexplore.ieee.org/document/9961144). IEEE Transactions on Knowledge and Data Engineering, 2022
 - **Wenwen Xia**, Yuchen Li, Wentian Guo, and Shenghong Li. ["Efficient navigation for constrained shortest path with adaptive expansion control"](https://ieeexplore.ieee.org/document/10027636). ICDM, 2022
