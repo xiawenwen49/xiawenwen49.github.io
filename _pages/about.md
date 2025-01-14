@@ -20,7 +20,8 @@ I work on graph-related learning methods (e.g., graph neural neworks), graph alg
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
 
 # Publications
-- Jun hu\*, **Wenwen Xia\***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
+- Jun hu\*, **Wenwen Xia\***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Enhancing Sequential Recommendation via LLM-based Semantic
+Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
 
 - **Wenwen Xia**, Mincai Lai, Caihua Shan, Yao Zhang, Xinnan Dai, Xiang Li, Dongsheng Li. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://openreview.net/pdf?id=BR_ZhvcYbGJ). ICLR, 2023
 - **Wenwen Xia**, Yuchen Li, and Shenghong Li. ["On the substructure countability of graph neural networks"](https://ieeexplore.ieee.org/document/9961144). IEEE Transactions on Knowledge and Data Engineering, 2022
