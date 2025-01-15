@@ -13,7 +13,7 @@ Previously, I spent one year at Microsoft Research Asia (Shanghai) as a research
 I was a senior machine learning engineer at Ant Group until Dec. 2024.
 
 I work on graph-related learning methods (e.g., graph neural neworks), graph algorithms, large language models, and so on.
-
+ 
 # Research Interests
 <strong style="color: red;">Advancing Graph Machine Learning:</strong> 
 My first part of research interests focus on graph machine learning, especially graph neural networks (GNNs), e.g., message-passing or Transformer based graph models, with a particular emphasis on **graph foundation models**. 
