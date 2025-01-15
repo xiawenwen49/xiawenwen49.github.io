@@ -9,14 +9,30 @@ redirect_from:
 ---
 
 Welcome! My name is Wenwen Xia, I'm currently a Lecture at Soochow University. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
-Previously, I spent one year at Microsoft Research Asia (Shanghai) as a research intern, and was a senior machine learning engineer at Ant Group utile Dec. 2024.
+Previously, I spent one year at Microsoft Research Asia (Shanghai) as a research intern.
+I was a senior machine learning engineer at Ant Group utile Dec. 2024.
 
 I work on graph-related learning methods (e.g., graph neural neworks), graph algorithms, large language models, and so on.
 
-# News
-[2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
+# Research Interests
+<strong style="color: red;">Advancing Graph Machine Learning:</strong> 
+My first part of research interests focus on graph machine learning, especially graph neural networks (GNNs), e.g., message-passing or Transformer based graph models, with a particular emphasis on **graph foundation models**. 
+I aim to push the boundaries of GNNs in terms of performance, generalizability, and efficiency, addressing challenges that limit their boarder adaptability across diverse and real-world applications.
 
-[2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
+[//]: # (<strong style="color: red;">Graph Algorithm:</strong> Graph neural networks, related to graph transformer, graph foundation model and graph-oriented algorithms.)
+
+<strong style="color: red;">Integrating Large Language Models with Graphs:</strong> 
+My second part of research interests relates to the synergy between large language models (LLMs) and graph data, striving to equip LLMs with a deep understanding and manipulation of graph structures. 
+This integration also seeks to enhance LLMs’ capabilities in planning, reasoning, and tool utilization, enabling more intelligent and context-aware AI systems.
+
+[//]: # (<strong style="color: red;">Research direction 3:</strong> xxx)
+
+# News
+🔥 [2025.01] <strong style="color: red;">2025年课题组有研究生名额，欢迎感兴趣的同学与我邮件联系！</strong>
+
+🆕 [2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
+
+🆕 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
 
 # Publications
