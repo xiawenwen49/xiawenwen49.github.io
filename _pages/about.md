@@ -17,11 +17,11 @@ I work on large language models (LLMs), graph-based retrieval augmentation gener
  
 # Research Interests
 <strong style="color: red;">Integrating Large Language Models with Graphs:</strong> 
-My second part of research interests relates to the synergy between large language models (LLMs) and graph data, striving to equip LLMs with a deep understanding and manipulation of graph structures. Another direction is to utilizing graphs for retrieval-augmented genertation (GraphRAG), which has pervasive applications in the current AI-motivated era.
+This research direction relates to the synergy between large language models (LLMs) and graph data, striving to equip LLMs with a deep understanding and manipulation of graph structures. Another direction is to utilizing graphs for retrieval-augmented genertation (GraphRAG), which has pervasive applications in the current AI-motivated era.
 This integration also seeks to enhance LLMs’ capabilities in planning, reasoning, and tool utilization, enabling more intelligent and context-aware AI systems.
 
 <strong style="color: red;">Advancing Graph Machine Learning:</strong> 
-My first part of research interests focus on graph machine learning, especially graph neural networks (GNNs), e.g., message-passing or Transformer based graph models, with a particular emphasis on **graph foundation models**. 
+This research direction focuses on graph machine learning, especially graph neural networks (GNNs), e.g., message-passing or Transformer based graph models, with a particular emphasis on **graph foundation models**. 
 I aim to push the boundaries of GNNs in terms of performance, generalizability, and efficiency, addressing challenges that limit their boarder adaptability across diverse and real-world applications.
 
 [//]: # (<strong style="color: red;">Graph Algorithm:</strong> Graph neural networks, related to graph transformer, graph foundation model and graph-oriented algorithms.)
