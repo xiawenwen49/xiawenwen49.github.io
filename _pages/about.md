@@ -13,34 +13,41 @@ Previously, I spent one year at Microsoft Research Asia (Shanghai) as a research
 I was a senior machine learning engineer at Ant Group until Dec. 2024.
 I move to Soochow University as a Lecture from Jan. 2025.
 
-I work on large language models (LLMs), graph-based retrieval augmentation generation, graph-related learning methods (e.g., graph neural neworks), and so on.
+I work on large language models (LLMs), retrieval augmentation generation (RAG), reranker model optimizaiton, graph machine learning, and so on.
  
 # Research Interests
-<strong style="color: red;">Integrating Large Language Models with Graphs:</strong> 
+<strong style="color: red;">LLMs and RAG:</strong> 
+This research direction focuses on the LLM optimization, including LLM performance, training, and reinforcement learning.
+Moreover, I also focus on retrieval augmentation generation, including new RAG algorithms, training reranker models, etc.
+
+这个方向主要研究大语言模型的优化问题，包括怎么让模型的训练和推理更加高效（例如我们期望缓存更少，延迟更低等），以及用强化学习来进一步提升效果。除此之外，也在探索检索增强生成（RAG）方向，比如设计新的RAG算法、训练更好的小型重排序模型（例如4B以下的模型）。
+
+<strong style="color: red;">Integrating LLMs with Graphs:</strong> 
 This research direction relates to the synergy between large language models (LLMs) and graph data, striving to equip LLMs with a deep understanding and manipulation of graph structures. Another direction is to utilizing graphs for retrieval-augmented genertation (GraphRAG), which has pervasive applications in the current AI-motivated era.
 This integration also seeks to enhance LLMs’ capabilities in planning, reasoning, and tool utilization, enabling more intelligent and context-aware AI systems.
 
-<strong style="color: red;">Advancing Graph Machine Learning:</strong> 
-This research direction focuses on graph machine learning, especially graph neural networks (GNNs), e.g., message-passing or Transformer based graph models, with a particular emphasis on **graph foundation models**. 
-I aim to push the boundaries of GNNs in terms of performance, generalizability, and efficiency, addressing challenges that limit their boarder adaptability across diverse and real-world applications.
+这个方向聚焦在大语言模型和图数据怎么更好地结合起来。一方面是让大模型真正"读懂"图结构，能理解和操作图数据；另一方面是用图来增强检索增强生成（也就是GraphRAG）系统的性能。也希望借助图结构来增强大模型的检索问答、规划推理和工具调用等能力。
 
 [//]: # (<strong style="color: red;">Graph Algorithm:</strong> Graph neural networks, related to graph transformer, graph foundation model and graph-oriented algorithms.)
-
 
 
 [//]: # (<strong style="color: red;">Research direction 3:</strong> xxx)
 
 # News
-🔥 [2025.08] <strong style="color: red;">2025/2026年课题组有研究生名额，欢迎感兴趣的同学与我邮件联系！</strong>
+🔥 [2026.06] <strong style="color: red;">2026年课题组有研究生名额，欢迎感兴趣的同学与我邮件联系。</strong>
 
 🔥 [2025.08] <strong style="color: red;">主持国家自然科学基金青年基金、江苏省自然科学基金青年基金、江苏省高校面上项目等。项目组经费充裕。
 
 🆕 [2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
 
-🆕 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
-Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore.
+<!-- 🆕 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
+Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore. -->
 
 # Publications
+
+See google scholar -> [here](https://scholar.google.com/citations?user=fUiaEx0AAAAJ&hl=zh-CN)
+
+<!-- 
 - Jun hu\*, **Wenwen Xia\***, Xiaolu Zhang, Chilin Fu, Weichang Wu, Zhaoxin Huan, Ang Li, Zuoli Tang, Jun Zhou. ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2024
 - **Wenwen Xia**, Mincai Lai, Caihua Shan, Yao Zhang, Xinnan Dai, Xiang Li, Dongsheng Li. ["Explaining Temporal Graph Models through an Explorer-Navigator Framework"](https://openreview.net/pdf?id=BR_ZhvcYbGJ). ICLR, 2023
@@ -51,7 +58,7 @@ Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307). WWW, 2
 - **Wenwen Xia**, Yuchen Li, Jianwei Tian, and Shenghong Li. ["Forecasting interaction order on temporal graphs"](https://dl.acm.org/doi/10.1145/3447548.3467341). KDD, 2021
 - **Wenwen Xia**, Fangqi Li, and Shenghong Li. ["Gaussian process bandits for online influence maximization"](). ICDM Workshop, 2020
 - **Wenwen Xia**, Chong Di, Haonan Guo, Shenghong Li, ["Reinforcement learning based stochastic shortest path finding in wireless sensor networks"](https://ieeexplore.ieee.org/abstract/document/8886484/), IEEE Access, 2019
-- Fangqi Li, Chong Di, **Wenwen Xia**, ["On the Submodularity of Diffusion Models: Equivalent Conditions and Applications"](https://arxiv.org/abs/2002.00845)
+- Fangqi Li, Chong Di, **Wenwen Xia**, ["On the Submodularity of Diffusion Models: Equivalent Conditions and Applications"](https://arxiv.org/abs/2002.00845) -->
 
 # Experiences
 - 2023.09-Present, Machine learning engineer, Ant Group
