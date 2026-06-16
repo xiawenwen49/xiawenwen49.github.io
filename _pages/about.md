@@ -38,7 +38,7 @@ This integration also seeks to enhance LLMs’ capabilities in planning, reasoni
 
 🔥 [2025.08] <strong style="color: red;">主持国家自然科学基金青年基金、江苏省自然科学基金青年基金、江苏省高校面上项目等。项目组经费充裕。
 
-🆕 [2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024.
+<!-- 🆕 [2024.11] I'm move to Soochow University, Suzhou, China, as a Lecture (Assistant Professor) from Dec. 2024. -->
 
 <!-- 🆕 [2024.05] Our paper ["Enhancing Sequential Recommendation via LLM-based Semantic
 Embedding Learning"](https://dl.acm.org/doi/pdf/10.1145/3589335.3648307) was accepted by [The Web conference 2024](https://www2024.thewebconf.org/), which was held in Singapore. -->
