@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Wenwen Xia, I'm currently a Lecture at Soochow University. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
+Welcome! My name is Wenwen Xia, I'm currently a Lecture at Soochow University. I obtained my Ph.D. degree at Shanghai Jiao Tong University (SJTU), Bachelor's degree at Wuhan University, and was a visiting Ph.D. student at Singapore Management Univeristy (SMU) where I worked with [Prof. Yuchen Li](https://yuchenli.net/). 
 Previously, I spent one year at Microsoft Research Asia (Shanghai) as a research intern.
 I was a senior machine learning engineer at Ant Group until Dec. 2024.
 I move to Soochow University as a Lecture from Jan. 2025.
