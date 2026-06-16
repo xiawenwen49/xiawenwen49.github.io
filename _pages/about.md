@@ -28,10 +28,7 @@ This integration also seeks to enhance LLMs’ capabilities in planning, reasoni
 
 这个方向聚焦在大语言模型和图数据怎么更好地结合起来。一方面是让大模型真正"读懂"图结构，能理解和操作图数据；另一方面是用图来增强检索增强生成（也就是GraphRAG）系统的性能。也希望借助图结构来增强大模型的检索问答、规划推理和工具调用等能力。
 
-[//]: # (<strong style="color: red;">Graph Algorithm:</strong> Graph neural networks, related to graph transformer, graph foundation model and graph-oriented algorithms.)
-
-
-[//]: # (<strong style="color: red;">Research direction 3:</strong> xxx)
+<strong style="color: red;">所在课题组（苏州大学自然语言处理实验室）主页：[https://opennlg.cn](https://opennlg.cn)。组内成员共享技术支持、计算资源等，课题组氛围良好。</strong> 
 
 # News
 🔥 [2026.06] <strong style="color: red;">2026年课题组有研究生名额，欢迎感兴趣的同学与我邮件联系。</strong>
